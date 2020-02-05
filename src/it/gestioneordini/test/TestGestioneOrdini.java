@@ -19,6 +19,8 @@ public class TestGestioneOrdini {
 		
 		Ordine ordine2 = new Ordine("PERSONA 2","VIA DI PERSONA 2");
 		
+		System.out.println("MODIFICA PER GIT");
+		
 		//ARTICOLI
 		
 //		Articolo articolo2 = new Articolo("ARTICOLO 2",50,ordine1);
